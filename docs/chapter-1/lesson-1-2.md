@@ -72,7 +72,6 @@ Where:
 - $ t $ is the time
 
 ## Hands-on Example: Simple Physics Simulation
-
 ```python
 import numpy as np
 
@@ -114,7 +113,7 @@ for t in np.arange(0, 2, 0.1):
 Physics simulation forms the foundation for Physical AI systems. Understanding the underlying physics concepts and how they're implemented in simulation engines is essential for creating realistic and effective Physical AI applications.
 
 ## Previous Lesson
-Go back to [Lesson 1.1: Introduction to Physical AI and Its Applications](/chapter-1/lesson-1-1) if you need to review the basics.
+Go back to [Lesson 1.1: Introduction to Physical AI and Its Applications](./lesson-1-1) if you need to review the basics.
 
 ## Next Lesson
-Continue to [Lesson 1.3: Implementing Your First Physical AI System](/chapter-1/lesson-1-3) where you'll build a practical Physical AI system.
+Continue to [Lesson 1.3: Implementing Your First Physical AI System](./lesson-1-3) where you'll build a practical Physical AI system.
